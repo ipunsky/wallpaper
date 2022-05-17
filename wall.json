@@ -1,0 +1,158 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper Paralax",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    },
+    {
+      "id":2,
+      "title":"Skin MCPE",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61b5c58e0d42c6-15280590-69156097.jpeg",
+      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+    },
+    {
+      "id":3,
+      "title":"Fake Call",
+      "image":"file:///android_asset/more/fake.jpg",
+      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+    },
+    {
+      "id":4,
+      "title":"Keyboard",
+      "image":"file:///android_asset/more/keyboard.jpeg",
+      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
+    },
+    {
+      "id":5,
+      "title":"Twibbon",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61bd755556b8e8-26297378-14235742.jpeg",
+      "link":"https://aliendro.id/alien-frame-campaign-json-offline-online-117"
+    },
+    {
+      "id":6,
+      "title":"Mp3 Player",
+      "image":"https://aliendro.id/uploads/images/202108/img_1920x_61283f5394bc13-47210190-94326655.jpeg",
+      "link":"https://aliendro.id/alien-mp3-player-v22-10"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Huggy Wuggy",
+      "image": "https://servisacjakartatimur.com/json/huggy/1.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Lamborghini",
+      "image": "file:///android_asset/category/lamborghini.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Mclaren",
+      "image": "https://aliendro.id/uploads/demo/walljson/mclaren_f1_team.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Hari Nasional",
+      "image": "file:///android_asset/category/bugatti.jpg"
+
+    },
+	{
+      "id": 4,
+      "name_category": "Hari Nasional",
+      "image": "file:///android_asset/category/bugatti.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+		{		
+		"id"	:	1,
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/1.jpg"
+		},		
+		{		
+		"id"	:	2,
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/2.jpg"
+		},		
+		{		
+		"id"	:	"3",
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/3.jpg"
+		},		
+		{		
+		"id"	:	4,
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/4.jpg"
+		},		
+		{		
+		"id"	:	5,
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/5.jpg"
+		},		
+		{		
+		"id"	:	6,
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/6.jpg"
+		},		
+		{		
+		"id"	:	7,
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/7.jpg"
+		},		
+		{		
+		"id"	:	8,
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/8.jpg"
+		},		
+		{		
+		"id"	:	9,
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/9.jpg"
+		},		
+		{		
+		"id"	:	10,
+		"name_category"	:	"Huggy Wuggy",
+		"title"	:	"Huggy Wuggy Wallpaper",
+		"image"	:	"https://servisacjakartatimur.com/json/huggy/10.jpg"
+		}		
+	
+  ]
+}
