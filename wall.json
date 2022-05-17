@@ -61,8 +61,8 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Huggy Wuggy",
-      "image": "https://servisacjakartatimur.com/json/huggy/1.jpg"
+      "name_category": "Trending",
+      "image": "https://i.pinimg.com/originals/13/c7/b4/13c7b4ed4d87e63158bd913881aaa6ec.jpg"
 
     },
     {
@@ -93,66 +93,67 @@
 
   "Data":
   [
-		{		
-		"id"	:	1,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/1.jpg"
+			{		
+		  "id"	:	"1",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 1",
+		  "image_link"	:	"https://i.pinimg.com/originals/13/c7/b4/13c7b4ed4d87e63158bd913881aaa6ec.jpg"
 		},		
 		{		
-		"id"	:	2,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/2.jpg"
+		  "id"	:	"2",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 2",
+		  "image_link"	:	"https://i.pinimg.com/originals/34/6b/a4/346ba455d673fcbeda9b8d0a39b90887.jpg"
 		},		
 		{		
-		"id"	:	"3",
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/3.jpg"
+		  "id"	:	"3",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 3",
+		  "image_link"	:	"https://i.pinimg.com/originals/6d/81/c0/6d81c0a843e63364f3a535c48a65db13.jpg"
 		},		
 		{		
-		"id"	:	4,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/4.jpg"
+		  "id"	:	"4",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 4",
+		  "image_link"	:	"https://i.pinimg.com/originals/b1/81/5a/b1815a669069867373c6e2eb8372c666.jpg"
 		},		
 		{		
-		"id"	:	5,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/5.jpg"
+		  "id"	:	"5",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 5",
+		  "image_link"	:	"https://i.pinimg.com/originals/e3/05/f5/e305f5e4dfa747255859ed8e567c422c.jpg"
 		},		
 		{		
-		"id"	:	6,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/6.jpg"
+		  "id"	:	"6",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 6",
+		  "image_link"	:	"https://i.pinimg.com/originals/40/f9/56/40f95622a1193e5d0bd14c8dd9997036.jpg"
 		},		
 		{		
-		"id"	:	7,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/7.jpg"
+		  "id"	:	"7",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 7",
+		  "image_link"	:	"https://i.pinimg.com/originals/de/db/ec/dedbec266ae8a1ee16b01078aa9fbfcc.jpg"
 		},		
 		{		
-		"id"	:	8,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/8.jpg"
+		  "id"	:	"8",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 8",
+		  "image_link"	:	"https://i.pinimg.com/originals/74/7e/e2/747ee2b2d5341039d4092495659668d8.jpg"
 		},		
 		{		
-		"id"	:	9,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/9.jpg"
+		  "id"	:	"9",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 9",
+		  "image_link"	:	"https://i.pinimg.com/originals/d1/53/ac/d153ac7e0736216800ade1372e3ef5c2.jpg"
 		},		
 		{		
-		"id"	:	10,
-		"name_category"	:	"Huggy Wuggy",
-		"title"	:	"Huggy Wuggy Wallpaper",
-		"image"	:	"https://servisacjakartatimur.com/json/huggy/10.jpg"
+		  "id"	:	"10",
+		  "category"	:	"Trending",
+		  "title"	:	"Troll Hunter 10",
+		  "image_link"	:	"https://i.pinimg.com/originals/9d/7b/83/9d7b83363f0f4de83ffa71a3a65f6a49.jpg"
 		}		
+	
 	
   ]
 }
