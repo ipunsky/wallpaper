@@ -22,39 +22,39 @@
   [
     {
       "id":1,
-      "title":"Wallpaper Paralax",
-      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
-      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":2,
-      "title":"Skin MCPE",
-      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61b5c58e0d42c6-15280590-69156097.jpeg",
-      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":3,
-      "title":"Fake Call",
-      "image":"file:///android_asset/more/fake.jpg",
-      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":4,
-      "title":"Keyboard",
-      "image":"file:///android_asset/more/keyboard.jpeg",
-      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":5,
-      "title":"Twibbon",
-      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61bd755556b8e8-26297378-14235742.jpeg",
-      "link":"https://aliendro.id/alien-frame-campaign-json-offline-online-117"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":6,
-      "title":"Mp3 Player",
-      "image":"https://aliendro.id/uploads/images/202108/img_1920x_61283f5394bc13-47210190-94326655.jpeg",
-      "link":"https://aliendro.id/alien-mp3-player-v22-10"
+      "title":"",
+      "image":"",
+      "link":""
     }
   ],
 
@@ -67,26 +67,14 @@
     },
     {
       "id": 2,
-      "name_category": "Lamborghini",
-      "image": "file:///android_asset/category/lamborghini.jpg"
+      "name_category": "Best Wallpaper",
+      "image": "https://i.pinimg.com/originals/34/6b/a4/346ba455d673fcbeda9b8d0a39b90887.jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Mclaren",
-      "image": "https://aliendro.id/uploads/demo/walljson/mclaren_f1_team.jpg"
-
-    },
-    {
-      "id": 4,
-      "name_category": "Hari Nasional",
-      "image": "file:///android_asset/category/bugatti.jpg"
-
-    },
-	{
-      "id": 4,
-      "name_category": "Hari Nasional",
-      "image": "file:///android_asset/category/bugatti.jpg"
+      "name_category": "Most Download",
+      "image": "https://i.pinimg.com/originals/6d/81/c0/6d81c0a843e63364f3a535c48a65db13.jpg"
 
     }
   ],
@@ -153,7 +141,7 @@
 		  "title"	:	"Troll Hunter 10",
 		  "image_link"	:	"https://i.pinimg.com/originals/9d/7b/83/9d7b83363f0f4de83ffa71a3a65f6a49.jpg"
 		}		
-	
+		
 	
   ]
 }
