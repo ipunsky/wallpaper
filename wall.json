@@ -82,10 +82,10 @@
   "Data":
   [
 		{		
-		  "id"	:	"1",
-		  "name_category"	:	"Trending",
-		  "title"	:	"Troll Hunter",
-		  "image_link"	:	"https://i.pinimg.com/originals/13/c7/b4/13c7b4ed4d87e63158bd913881aaa6ec.jpg"
+		  "id":	1,
+		  "name_category":	"Trending",
+		  "title":	"Troll Hunter 1",
+		  "image":	"https://i.pinimg.com/originals/13/c7/b4/13c7b4ed4d87e63158bd913881aaa6ec.jpg"
 		},		
 		{		
 		  "id"	:	"2",
