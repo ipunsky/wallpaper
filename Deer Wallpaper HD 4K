@@ -1,0 +1,147 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5225338332503610/81402563880",
+      "main_ads_intertitial":"ca-app-pub-5225338332503610/23969751140",
+      "backup_ads_banner":"db4d5e8718b97d780",
+      "backup_ads_intertitial":"518cd97722c60b520",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":4,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":5,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":6,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Trending",
+      "image": ""
+
+    },
+    {
+      "id": 2,
+      "name_category": "Best Wallpaper",
+      "image": ""
+
+    },
+    {
+      "id": 3,
+      "name_category": "Most Download",
+      "image": ""
+
+    }
+  ],
+
+  "Data":
+  [
+		{		
+		  "id":	"1",
+		  "category" :	"Trending",
+		  "title" :	"Deer Wallpaper",
+		  "image_link" :	""
+		},		
+		{		
+		  "id"	:	"2",
+		  "category"	:	"Trending",
+		  "title"	:	"",
+		  "image_link"	:	""
+		},		
+		{		
+		  "id"	:	"3",
+		  "category"	:	"Trending",
+		  "title"	:	"",
+		  "image_link"	:	""
+		},		
+		{		
+		  "id"	:	"4",
+		  "category"	:	"Trending",
+		  "title"	:	"",
+		  "image_link"	:	""
+		},		
+		{		
+		  "id"	:	"5",
+		  "category"	:	"Trending",
+		  "title"	:	"",
+		  "image_link"	:	""
+		},		
+		{		
+		  "id"	:	"6",
+		  "category"	:	"Trending",
+		  "title"	:	" 6",
+		  "image_link"	:	""
+		},		
+		{		
+		  "id"	:	"7",
+		  "category"	:	"Trending",
+		  "title"	:	" 7",
+		  "image_link"	:	""
+		},		
+		{		
+		  "id"	:	"8",
+		  "category"	:	"Trending",
+		  "title"	:	" 8",
+		  "image_link"	:	""
+		},		
+		{		
+		  "id"	:	"9",
+		  "category"	:	"Trending",
+		  "title"	:	" 9",
+		  "image_link"	:	""
+		},		
+		{		
+		  "id"	:	"10",
+		  "category"	:	"Best Wallpaper",
+		  "title"	:	" 10",
+		  "image_link"	:	""
+		}		
+		
+	
+  ]
+}
