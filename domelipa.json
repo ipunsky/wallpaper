@@ -1,0 +1,302 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "GOKIL-APPLOVIN",
+      "select_backup_ads":"GOKIL-ADMOB",
+      "main_ads_banner": "ca-app-pub-5225338332503610/36662020590",
+      "main_ads_intertitial":"e18ce0bd45c059510",
+	  "main_ads_intertitial_lovin":"e18ce0bd45c059510",
+      "main_native_ads_Admob_or_applovin":"8542cbd0431566610",
+      "backup_native_ads_Admob_or_applovin":"8542cbd0431566610",
+      "backup_ads_banner":"8542cbd0431566610",
+      "backup_ads_intertitial":"e18ce0bd45c059510",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "on_off_category": "1",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "matikan_iklan":"0"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ItsFunneh Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/sbJMD4586AbQ7TF6HekqmTiuIhPYXv0ga7-WF-akZxE0deMFaR4B_hL4Q1uCnKUH40o=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.itsfunneh.wallpaperhdand4k"
+    },
+    {
+      "id":2,
+      "title":"Deer Wallpaper HD 4K",
+      "image":"https://play-lh.googleusercontent.com/z7gtZJaZstymLsFUKKdhLZsieqCRlvXa5IN_lIfCU78_2GRlsPqHBcWeYPXJaFcwNEo=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.deer.wallpaperhdand4k"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Trending",
+      "image": "https://i.pinimg.com/originals/13/c7/b4/13c7b4ed4d87e63158bd913881aaa6ec.jpg"
+
+    },
+    {
+      "id": 11,
+      "name_category": "Best Wallpaper",
+      "image": "https://i.pinimg.com/originals/94/33/00/9433003e5cdec2958514f7e0125db814.jpg"
+
+    },
+    {
+      "id": 21,
+      "name_category": "Most Download",
+      "image": "https://i.pinimg.com/originals/ab/10/09/ab10094cc694b31108816b7d1d6fa33b.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Tending",
+      "title":"Domelipa 1",
+      "image":"https://i.pinimg.com/originals/df/a6/f4/dfa6f4f0b59377c0044602f242386ee8.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Trending",
+      "title": "Domelipa 2",
+      "image": "https://i.pinimg.com/originals/31/6b/d5/316bd581ae73fa9cf7623b985c3c8cba.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Trending",
+      "title":"Domelipa 3",
+      "image":"https://i.pinimg.com/originals/b1/5c/91/b15c9172650e83b08431d3526b2ba5d3.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Trending",
+      "title":"Domelipa 4",
+      "image":"https://i.pinimg.com/originals/2f/ea/9d/2fea9dc50032021d1b7c11f012f60bf4.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Trending",
+      "title":"Domelipa 5",
+      "image":"https://i.pinimg.com/originals/ff/53/dd/ff53dd918bce64dcb00f5ec0662c5d0c.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Trending",
+      "title":"Domelipa 6",
+      "image":"https://i.pinimg.com/originals/6d/d2/9a/6dd29ab0b1defa058f578eb8752e38e2.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Trending",
+      "title":"Domelipa 7",
+      "image":"https://i.pinimg.com/originals/72/3f/96/723f96f188403b74b80ac3a0191f7599.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Trending",
+      "title":"Domelipa 8",
+      "image":"https://i.pinimg.com/originals/97/b5/3e/97b53e8d3902e7e577b9fcdabfe37de2.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Trending",
+      "title":"Domelipa 9",
+      "image":"https://i.pinimg.com/originals/0b/bd/57/0bbd579909d09bdb026271cca94496fe.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Trending",
+      "title":"Domelipa 10",
+      "image":"https://i.pinimg.com/originals/6f/ed/56/6fed5660ed75b9c9cda07e44ebbddb83.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 11",
+      "image":"https://i.pinimg.com/originals/46/0b/51/460b51df21eb9b8a6696bd3868dc3050.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 12",
+      "image":"https://i.pinimg.com/originals/d7/b7/54/d7b75482208250415a2ff9715cca25bf.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 13",
+      "image":"https://i.pinimg.com/originals/75/40/83/754083e54e3ea8fbad4ab7ef8b8e561a.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 14",
+      "image":"https://i.pinimg.com/originals/75/e2/5a/75e25ab904fd9bb35149bd4885e2856d.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 15",
+      "image":"https://i.pinimg.com/originals/2a/65/22/2a6522ae00a3d73754740ffa249cfe7e.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 16",
+      "image":"https://i.pinimg.com/originals/74/63/33/7463338011b230177d25d3e624a8a951.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 17",
+      "image":"https://i.pinimg.com/originals/6b/0a/ef/6b0aefe01950aceb2cb2704096cb995c.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 18",
+      "image":"https://i.pinimg.com/originals/36/4b/df/364bdfc2d665e8f951ff56c4b99a285f.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 19",
+      "image":"https://i.pinimg.com/originals/bb/65/d5/bb65d5b644f121938c72242d3f46409c.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Best Wallpaper",
+      "title":"Domelipa 20",
+      "image":"https://i.pinimg.com/originals/8d/5f/51/8d5f51a78da8c09794f5a26f43aaf283.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Most Download",
+      "title":"Domelipa 21",
+      "image":"https://i.pinimg.com/236x/dc/85/f6/dc85f6c65da9010e35171216e4941b10.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Most Download",
+      "title":"Domelipa 22",
+      "image":"https://i.pinimg.com/236x/8a/1b/1d/8a1b1db002853cf8ef78e997587daa8d.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Most Download",
+      "title":"Domelipa 23",
+      "image":"https://i.pinimg.com/236x/cd/5c/6a/cd5c6a38a71d04cfd6a48099f988c917.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Most Download",
+      "title":"Domelipa 24",
+      "image":"https://i.pinimg.com/236x/77/45/4b/77454b8233f574134a5286db5d05b388.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Most Download",
+      "title":"Domelipa 25",
+      "image":"https://i.pinimg.com/236x/ed/d1/10/edd110085df7dede2934ed8ec3c2b06e.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Most Download",
+      "title":"Domelipa 26",
+      "image":"https://i.pinimg.com/236x/ff/9a/cf/ff9acfa642d5dedece981c219fe495a2.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Most Download",
+      "title":"Domelipa 27",
+      "image":"https://i.pinimg.com/236x/c1/9c/c5/c19cc5988b2e96a4baa42292f531d232.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Most Download",
+      "title":"Domelipa 28",
+      "image":"https://i.pinimg.com/236x/45/d5/9d/45d59d5ea3d5973f26d9e6b8dd3436e0.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Most Download",
+      "title":"Domelipa 29",
+      "image":"https://i.pinimg.com/236x/90/d9/a3/90d9a369ae59bfda88fec6923ee36a81.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Most Download",
+      "title":"Domelipa 30",
+      "image":"https://i.pinimg.com/236x/bd/29/1a/bd291aa578d377c1e7508f2ed9b97fa0.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Most Download",
+      "title":"Domelipa 31",
+      "image":"https://i.pinimg.com/236x/a5/48/e3/a548e3e54f4a985d32dd05488184ad38.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Most Download",
+      "title":"Domelipa 32",
+      "image":"https://i.pinimg.com/236x/45/01/aa/4501aaf17b2734911d94077f7c44fdd1.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Most Download",
+      "title":"Domelipa 33",
+      "image":"https://i.pinimg.com/236x/87/0d/3c/870d3c674fddf5c3837abd13f8295918.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Most Download",
+      "title":"Domelipa 34",
+      "image":"https://i.pinimg.com/236x/54/4d/d5/544dd55c57c7fe8586a62f3c2f3a410f.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Most Download",
+      "title":"Domelipa 35",
+      "image":"https://i.pinimg.com/236x/68/d4/77/68d47737091853223c7fe7f412507d8e.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Most Download",
+      "title":"Domelipa 36",
+      "image":"https://i.pinimg.com/236x/47/95/68/479568e7124ce1e9c7f539d3d28654d6.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Most Download",
+      "title":"Domelipa 37",
+      "image":"https://i.pinimg.com/236x/72/3f/96/723f96f188403b74b80ac3a0191f7599.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Most Download",
+      "title":"Domelipa 38",
+      "image":"https://i.pinimg.com/236x/6c/29/b7/6c29b7e87676b611ccd82bd869c6c54f.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Most Download",
+      "title":"Domelipa 39",
+      "image":"https://i.pinimg.com/236x/dc/12/8a/dc128a2fdd3d457b940022bbe6e8f906.jpg"
+    }
+  ]
+}
