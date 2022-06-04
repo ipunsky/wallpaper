@@ -3,13 +3,13 @@
     {
       "select_main_ads": "GOKIL-APPLOVIN",
       "select_backup_ads":"GOKIL-ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/2247696110",
-      "main_ads_intertitial":"e18ce0bd45c05951",
-	  "main_ads_intertitial_lovin":"e18ce0bd45c05951",
-      "main_native_ads_Admob_or_applovin":"8542cbd043156661",
-      "backup_native_ads_Admob_or_applovin":"8542cbd043156661",
-      "backup_ads_banner":"8542cbd043156661",
-      "backup_ads_intertitial":"e18ce0bd45c05951",
+      "main_ads_banner": "ca-app-pub-5225338332503610/36662020590",
+      "main_ads_intertitial":"e18ce0bd45c059510",
+	  "main_ads_intertitial_lovin":"e18ce0bd45c059510",
+      "main_native_ads_Admob_or_applovin":"8542cbd0431566610",
+      "backup_native_ads_Admob_or_applovin":"8542cbd0431566610",
+      "backup_ads_banner":"8542cbd0431566610",
+      "backup_ads_intertitial":"e18ce0bd45c059510",
       "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -28,21 +28,15 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"ItsFunneh Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/sbJMD4586AbQ7TF6HekqmTiuIhPYXv0ga7-WF-akZxE0deMFaR4B_hL4Q1uCnKUH40o=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.itsfunneh.wallpaperhdand4k"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Deer Wallpaper HD 4K",
+      "image":"https://play-lh.googleusercontent.com/z7gtZJaZstymLsFUKKdhLZsieqCRlvXa5IN_lIfCU78_2GRlsPqHBcWeYPXJaFcwNEo=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.deer.wallpaperhdand4k"
     }
   ],
 
@@ -54,15 +48,15 @@
 
     },
     {
-      "id": 2,
+      "id": 11,
       "name_category": "Best Wallpaper",
-      "image": "https://i.pinimg.com/originals/b1/81/5a/b1815a669069867373c6e2eb8372c666.jpg"
+      "image": "https://i.pinimg.com/originals/94/33/00/9433003e5cdec2958514f7e0125db814.jpg"
 
     },
     {
-      "id": 3,
-      "name_category": "Car",
-      "image": "https://i.pinimg.com/originals/40/f9/56/40f95622a1193e5d0bd14c8dd9997036.jpg"
+      "id": 21,
+      "name_category": "Most Download",
+      "image": "https://i.pinimg.com/originals/ab/10/09/ab10094cc694b31108816b7d1d6fa33b.jpg"
 
     }
   ],
@@ -72,39 +66,183 @@
     {
       "id":1,
       "name_category": "Tending",
-      "title":"Waterfall",
+      "title":"Trollhunter 1",
       "image":"https://i.pinimg.com/originals/13/c7/b4/13c7b4ed4d87e63158bd913881aaa6ec.jpg"
     },
     {
       "id": 2,
       "name_category": "Trending",
-      "title": "River",
+      "title": "Trollhunter 2",
       "image": "https://i.pinimg.com/originals/34/6b/a4/346ba455d673fcbeda9b8d0a39b90887.jpg"
     },
     {
       "id":3,
       "name_category": "Trending",
-      "title":"Mountain",
+      "title":"Trollhunter 3",
       "image":"https://i.pinimg.com/originals/6d/81/c0/6d81c0a843e63364f3a535c48a65db13.jpg"
     },
     {
       "id":4,
-      "name_category": "Best Wallpaper",
-      "title":"Cute Cat",
+      "name_category": "Trending",
+      "title":"Trollhunter 4",
       "image":"https://i.pinimg.com/originals/b1/81/5a/b1815a669069867373c6e2eb8372c666.jpg"
     }
   ,
     {
       "id":5,
-      "name_category": "Best Wallpaper",
-      "title":"Dog",
+      "name_category": "Trending",
+      "title":"Trollhunter 5",
       "image":"https://i.pinimg.com/originals/e3/05/f5/e305f5e4dfa747255859ed8e567c422c.jpg"
     },
     {
       "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
+      "name_category": "Trending",
+      "title":"Trollhunter 6",
       "image":"https://i.pinimg.com/originals/40/f9/56/40f95622a1193e5d0bd14c8dd9997036.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Trending",
+      "title":"Trollhunter 7",
+      "image":"https://i.pinimg.com/originals/de/db/ec/dedbec266ae8a1ee16b01078aa9fbfcc.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Trending",
+      "title":"Trollhunter 8",
+      "image":"https://i.pinimg.com/originals/74/7e/e2/747ee2b2d5341039d4092495659668d8.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Trending",
+      "title":"Trollhunter 9",
+      "image":"https://i.pinimg.com/originals/d1/53/ac/d153ac7e0736216800ade1372e3ef5c2.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Trending",
+      "title":"Trollhunter 10",
+      "image":"https://i.pinimg.com/originals/9d/7b/83/9d7b83363f0f4de83ffa71a3a65f6a49.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 11",
+      "image":"https://i.pinimg.com/originals/94/33/00/9433003e5cdec2958514f7e0125db814.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 12",
+      "image":"https://i.pinimg.com/originals/1b/0b/2c/1b0b2cabc98cf4f285761783a74eba8c.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 13",
+      "image":"https://i.pinimg.com/originals/b1/b7/73/b1b7735d1e86a6e65625219ad2950ebc.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 14",
+      "image":"https://i.pinimg.com/originals/4f/8e/c7/4f8ec72dfcbf57249767a8c6af3142f9.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 15",
+      "image":"https://i.pinimg.com/originals/62/a1/ba/62a1ba9f8c2b3f0e77ad941531d964b5.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 16",
+      "image":"https://i.pinimg.com/originals/4b/24/cc/4b24ccb12b7ac36af42d67f984ceaf4b.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 17",
+      "image":"https://i.pinimg.com/originals/46/53/cf/4653cf77ad7c657dac906bd0572eb379.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 18",
+      "image":"https://i.pinimg.com/originals/e8/c4/3b/e8c43b4c5d8835eb678b1a3efcf2c4fd.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 19",
+      "image":"https://i.pinimg.com/originals/22/8c/57/228c578c24a45cb5f9665e88e374b3a0.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Best Wallpaper",
+      "title":"Trollhunter 20",
+      "image":"https://i.pinimg.com/originals/e9/7d/8b/e97d8b4b1199df89dcd2af4b6dda1c13.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Most Download",
+      "title":"Trollhunter 21",
+      "image":"https://i.pinimg.com/originals/ab/10/09/ab10094cc694b31108816b7d1d6fa33b.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Most Download",
+      "title":"Trollhunter 22",
+      "image":"https://i.pinimg.com/originals/f2/2c/a7/f22ca7173e530cd2748356033277bb15.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Most Download",
+      "title":"Trollhunter 23",
+      "image":"https://i.pinimg.com/originals/f3/9c/2a/f39c2ad4b35e30e6e7bbd4707c216b76.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Most Download",
+      "title":"Trollhunter 24",
+      "image":"https://i.pinimg.com/originals/f0/7e/c4/f07ec476d7cd1172016b37bb14505c93.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Most Download",
+      "title":"Trollhunter 25",
+      "image":"https://i.pinimg.com/originals/ca/8f/26/ca8f26ba94c180f6b067d95935d0319e.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Most Download",
+      "title":"Trollhunter 26",
+      "image":"https://i.pinimg.com/originals/e3/3c/98/e33c980321e40c068e3cfa8727963e2c.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Most Download",
+      "title":"Trollhunter 27",
+      "image":"https://i.pinimg.com/originals/db/50/4f/db504f0782daa4c35c1a4487ec2f0f58.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Most Download",
+      "title":"Trollhunter 28",
+      "image":"https://i.pinimg.com/originals/d1/dd/15/d1dd153a71d08ceb8e1c86e833bda473.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Most Download",
+      "title":"Trollhunter 29",
+      "image":"https://i.pinimg.com/originals/4c/9e/26/4c9e2670f9107c32751d0f997bedcf27.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Most Download",
+      "title":"Trollhunter 30",
+      "image":"https://i.pinimg.com/originals/1e/f2/1d/1ef21d3fe08f19452158890f6bd26dff.jpg"
     }
   ]
 }
